@@ -1,0 +1,1 @@
+﻿Server=MACHINE-139BN37\SQLEXPRESS;Database=Countries;Integrated Security=true
